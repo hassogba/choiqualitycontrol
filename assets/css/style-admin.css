@@ -1,0 +1,28 @@
+.parsley-errors-list li.parsley-required {
+    background: red;
+    padding: 3px;
+    color: #fff;
+    width: 100%;
+}
+.parsley-errors-list li.parsley-type{
+    background-color: red;
+    padding: 3px;
+    color: #ffffff;
+
+}
+
+.parsley-errors-list{
+    padding-left: 2px;
+}
+
+.text-left{
+    text-align: left;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.text-center{
+    text-align: center;
+}

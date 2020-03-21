@@ -1,0 +1,124 @@
+
+
+.img-cat{
+     width:% ;
+     height:% ;
+     
+}
+ #nomimages{
+                        
+	font-family: century ;
+	font-size: large;
+	display: table-cell; /* comportement visuel de cellule */
+    vertical-align: middle;
+}
+#menu{	 
+	 margin-top: 20%;
+	 border-width:0px 0px 4px 4px;
+	 border-style:solid solid;
+	 border-color:#e73e01 #e73e01;
+	 padding:0 10px;
+}
+#central{	
+	 
+	 border-width:0px 0px 0px 4px;
+	 border-style:solid solid;
+	 border-color:#e73e01 #e73e01;
+	 height: 610px;
+	 
+}
+ #centraldetail{   
+
+             border-width:0px 0px 0px 4px;
+             border-style:solid solid;
+             border-color:#e73e01 #e73e01;
+              height:100%;
+             
+        }
+
+#titresite{	
+	 
+	 border-width:0px 0px 0px 4px;
+	 border-style:solid solid;
+	 border-color:#e73e01 #e73e01;
+	 height: 100px;
+	 
+}
+#titresite1{ 
+     
+                     border-width:0px 0px 0px 4px;
+                     border-style:solid solid;
+                     border-color:#e73e01 #e73e01;
+                     
+                }
+footer{
+	border-width:4px 0px 0px 0px;
+	 border-style:solid solid;
+	 border-color:#e73e01 #e73e01;
+	 width:1450px ;
+	 height: 35px;
+
+
+}
+#labo{
+	width: 1000px;
+}
+
+
+.block{
+    
+    width:100% ;    
+}
+#contexte{
+width:1015px;
+/*background-color: red;*/
+}
+#contexte1{
+width:930px;
+/*background-color: red;*/
+}
+#objectif{
+width:1015px;
+/*background-color: red;*/
+}
+#objectif1{
+width:930px;
+/*background-color: red;*/
+}
+
+/*#footerindex{
+	margin-top:50px;
+}*/
+#footercontact{
+	margin-top:3px;
+}
+#footersociete{
+	margin-top:280px;
+}
+#footerqualite{
+	margin-top:190px;
+}
+#footerprestation{
+	margin-top:240px;
+}
+#footerprestation1{
+	margin-top:60px;
+}
+#footeraprestation{
+	margin-top:360px;
+}
+#footerplan{
+	margin-top:70px;
+}
+
+ #footerdetail{
+
+    margin-top:2px;
+
+}
+#titre{
+	
+}
+
+
+ 

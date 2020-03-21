@@ -1,0 +1,66 @@
+
+.cat-link > a{
+    text-decoration: none;
+}
+.block{
+    margin: 5px;
+   
+}
+
+body{   
+ font-family: century;
+ 
+   font-size: 14px;
+}
+
+
+
+
+ .barreh{
+            background-color: #e73e01;
+            width: 1450px;
+            height: 4px;
+        }
+
+.image{
+  width:900px ;
+}
+.defileParent {
+  display: block;
+  margin: auto;
+  overflow: hidden;
+  position: relative;
+  table-layout: fixed;
+  width: 100%;
+}
+.defile {
+  display:block;
+  -webkit-animation:linear marqueelike 20s infinite ;
+  -moz-animation:linear marqueelike 20s infinite ;
+  -o-animation:linear marqueelike 20s infinite ;
+  -ms-animation:linear marqueelike 20s infinite ;
+  animation:linear marqueelike 20s infinite ;  
+  text-align:left;
+  height:25px;
+}
+
+@-webkit-keyframes marqueelike {
+  0%, 100% {margin-left:0;}
+  99.99% {margin-left:-100%;}
+ }
+@-moz-keyframes marqueelike {
+  0%, 100% {margin-left:0;}
+  99.99% {margin-left:-100%;}
+ }
+@-o-keyframes marqueelike {
+  0%, 100% {margin-left:0;}
+  99.99% {margin-left:-100%;}
+ }
+@-ms-keyframes marqueelike {
+  0%, 100% {margin-left:0;}
+  99.99% {margin-left:-100%;}
+ }
+@keyframes marqueelike {
+  0%, 100% {margin-left:0;}
+  99.99% {margin-left:-100%;}
+ }

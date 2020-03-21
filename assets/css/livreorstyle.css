@@ -1,0 +1,12 @@
+.parsley-errors-list li.parsley-required {
+
+    padding: 3px;
+    color: red;
+    width: 100%;
+}
+
+.scrollit{
+    height:600px;
+    overflow-y:scroll;
+    margin-bottom: 25px;
+}

@@ -47,7 +47,9 @@
 			<div class="col-lg-3"><?php include("include/corps/droit.php") ?></div>
 		</div>
 	</div>
-	
 
+    <div class="container">
+        costant 
+    </div>
 </body>
 </html>

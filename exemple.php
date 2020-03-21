@@ -47,27 +47,9 @@
 			<div class="col-lg-3"><?php include("include/corps/droit.php") ?></div>
 		</div>
 	</div>
-	<!--pieds de page-->
-	<footer>
-		<div class="container">
-			<div class="row">
-				<!--pieds de page gauche-->
-				<div class="col-lg-3">
-					
-				</div>
-				<!--pieds de page central-->
-				<div class="col-lg-6">
-					
-				</div>
-				<!--pieds de page droit-->
-				<div class="col-lg-3">
-					
-				</div>
 
-			</div>
-			
-		</div>
-	</footer>
-
+    <div class="container">
+        costant 
+    </div>
 </body>
 </html>
